@@ -1,0 +1,5 @@
+bcrypt==3.2.2
+cffi==1.15.0
+mysql-connector-python==8.0.29
+protobuf==4.21.1
+pycparser==2.21
